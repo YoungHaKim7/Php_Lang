@@ -10,6 +10,8 @@ typedef struct seq_list {
   int length;
 } seq_list;
 
+int create_element(int, int, seq_list * );
+
 int main(void) {
   // declare a linear table
   seq_list sq;

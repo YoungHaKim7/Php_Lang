@@ -60,4 +60,30 @@ brew services stop php
 
 [https://github.com/elarity/data-structure-php-clanguage](https://github.com/elarity/data-structure-php-clanguage)
 
-# Php_Lang
+<br>
+
+# Php\_다른 방법으로 코드 보기
+
+- node 와 비슷하게 한다.
+
+hello.php
+
+```
+<?php
+    echo("Hello World Php\n");
+?>
+```
+
+terminal 창에서
+
+```
+$ php hello.php
+
+
+Hello World Php
+
+```
+
+잘 나온다.
+
+JavaScript 파일 node로 하는것과 비슷하다.

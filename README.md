@@ -47,9 +47,17 @@ index.php 예제 코드
 </html>
 ```
 
+작업 다 끝나고 서버 중지
+
+```
+brew services stop php
+
+```
+
 <br>
 
 # data-structure-php-clanguage
 
 [https://github.com/elarity/data-structure-php-clanguage](https://github.com/elarity/data-structure-php-clanguage)
+
 # Php_Lang

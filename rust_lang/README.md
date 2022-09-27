@@ -6,6 +6,10 @@
 
 # Linked_list
 
+### Linked List in Rust | Zane Hitchcox
+
+- [Linked List in Rust](https://youtu.be/68356rTmqxY)
+
 <br>
 
 # A Singly Linked List in Rust

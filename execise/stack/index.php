@@ -1,3 +1,4 @@
+// https://github.com/elarity/data-structure-php-clanguage/blob/master/6.%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B9%8B%E6%A0%88.md
 // Data Structure Stack.
 <?php
     // Abstracts a node into a node class with data and next attributes

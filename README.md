@@ -1,5 +1,7 @@
 # Php Homepage
 
+_ A popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
+
 [PHP: Hypertext Preporcessor](https://www.php.net/)
 
 # Php tutorial

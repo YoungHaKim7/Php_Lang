@@ -4,6 +4,11 @@ _ A popular general-purpose scripting language that is especially suited to web 
 
 [PHP: Hypertext Preporcessor](https://www.php.net/)
 
+# Free Programming Books Langs
+
+https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#php
+
+
 # Php tutorial
 
 PHP Programming Language Tutorial - Full Course

@@ -15,6 +15,10 @@ PHP Programming Language Tutorial - Full Course
 
 [https://youtu.be/OK_JCtrrv-c](https://youtu.be/OK_JCtrrv-c)
 
+# Php Tutorial 2 _ w3schools
+
+https://www.w3schools.com/php/default.asp
+
 <br>
 
 <hr>

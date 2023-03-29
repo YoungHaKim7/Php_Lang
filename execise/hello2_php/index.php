@@ -8,3 +8,4 @@ class Greeting
 }
 
 Greeting::sayHello(); // Outputs "Hello"
+?>

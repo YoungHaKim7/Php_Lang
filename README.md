@@ -102,3 +102,15 @@ Hello World Php
 잘 나온다.
 
 JavaScript 파일 node로 하는것과 비슷하다.
+
+
+<hr />
+
+# php최신뉴스
+
+# **[GN⁺: PHP 8.4 릴리즈](<https://news.hada.io/topic?id=17888&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
+- 속성 훅, 비대칭 가시성, 업데이트된 DOM API, 성능 향상, 버그 수정 및 일반적인 정리가 포함  
+  - IDE와 정적 분석 도구가 네이티브로 이해할 수 있는 계산 속성을 지원하는 속성 훅 제공  
+  - 속성의 읽기와 쓰기 범위를 독립적으로 제어할 수 있는 비대칭 가시성 도입.  
+- **새로운 기능**  
+  - `#[\Depre...
